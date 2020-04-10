@@ -1,5 +1,7 @@
 # Roulette vertical wheels example on ReactJs
 
+![roulette.gif](roulette.gif)
+
 Setup
 -----
 Using npm:
